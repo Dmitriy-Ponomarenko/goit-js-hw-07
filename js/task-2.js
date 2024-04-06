@@ -1,3 +1,5 @@
+'use strict';
+
 const galleryList = document.querySelector('.gallery');
 
 const images = [
